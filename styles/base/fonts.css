@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+/* Added import for glyphicons icons library*/
+@import url(https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css);
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    opacity: .7;
+    ine-height: 1.5;
+    text-transform: uppercase;
+}
