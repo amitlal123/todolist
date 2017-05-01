@@ -83,7 +83,7 @@ $(document).ready(function(){
         $("#newTaskForm").slideToggle("fast", "linear");
       }
   }
-
+// Logic to move item as it progresses through status change
   function moveItem(item) {
     var changed = item.innerText.trim();
     var statusChange = false;
